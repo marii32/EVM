@@ -1,5 +1,6 @@
 
-project(pi)
+project(1lab)
+
 
 set(exe_name ${PROJECT_NAME})
 
